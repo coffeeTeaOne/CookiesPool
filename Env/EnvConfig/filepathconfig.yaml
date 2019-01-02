@@ -1,0 +1,9 @@
+Windows:
+  log:
+    path:/Logs/
+
+Linux:
+  log:
+    path:/home/admin/logs/python/
+
+

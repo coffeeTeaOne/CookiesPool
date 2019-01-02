@@ -1,0 +1,61 @@
+redis.weibo.cookies:
+   localhostconn:
+      host:localhost
+      port:6379
+      db:0
+
+   41conn:
+      host:172.22.69.41
+      port:6379
+      db:0
+
+
+redis.weibo.cookies.colony:
+   colony:
+      host:172.22.69.35|172.22.69.36|172.22.69.37|172.22.69.38|172.22.69.40|172.22.69.45
+      port:6379
+      db:0
+
+mysql.config:
+   localhostconn:
+      host:localhost
+      port:3306
+      db:spider_test
+      user:root
+      password:123456
+      charset:utf8
+   222conn:
+      host:192.168.1.222
+      port:3306
+      db:jep
+      user:root
+      password:123456
+      charset:utf8
+   43conn:
+      host:172.22.69.43
+      port:3306
+      db:spider
+      user:spider
+      password:spider#O2018
+      charset:utf8
+   41conn:
+     host:172.22.69.41
+     port:3306
+     db:spider
+     user:root
+     password:dev007%P
+     charset:utf8
+   41conn_test:
+     host:172.22.69.41
+     port:3306
+     db:spider_test
+     user:root
+     password:dev007%P
+     charset:utf8
+   67.25conn:
+     host:172.22.67.25
+     port:3306
+     db:spider
+     user:root
+     password:Code123!@#
+     charset:utf8

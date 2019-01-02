@@ -1,0 +1,4 @@
+2019-01-02 09:46:21 run.py [line:17] INFO: 开始运行---
+2019-01-02 09:46:28 tester.py [line:65] INFO: 测试器开始运行!
+2019-01-02 09:46:33 tester.py [line:72] INFO: 当前剩余0个cookies
+2019-01-02 09:47:33 get_cookies.py [line:110] INFO: 关闭窗口异常！
